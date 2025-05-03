@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "link": "http://202.51.196.179",
+      "prt": "10001",
+      "type": "SERVER JLM"
+    },
+    {
+      "Name": "http://103.170.96.170",
+      "Expertise": "10001",
+      "Country_of_birth": "SERVER MCM"
+    },
+    {
+      "Name": "http://192.168.20.70",
+      "Expertise": "10001",
+      "Country_of_birth": "SERVER LOKAL"
+    },
+    {
+      "Name": "https://fb9d-202-51-196-178.ngrok-free.app",
+      "Expertise": "",
+      "Country_of_birth": "SERVER NGROK"
+    }
+  ]
+}
