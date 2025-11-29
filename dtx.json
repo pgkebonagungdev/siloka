@@ -2,24 +2,18 @@
   "data": [
     {
       "id":1,
-      "link": "http://202.51.196.179",
-      "prt": "10001",
-      "type": "SERVER JLM"
-    },
-    {
-      "id":2,
       "Name": "http://203.135.183.67",
       "prt": "10001",
       "type": "SERVER MCM"
     },
     {
-      "id":3,
+      "id":2,
       "Name": "http://192.168.20.70",
       "prt": "10001",
       "type": "SERVER LOKAL"
     },
     {
-      "id":4,
+      "id":3,
       "Name": "https://gamecube-cork-prints-prev.trycloudflare.com/",
       "prt": "",
       "type": "SERVER CF"
