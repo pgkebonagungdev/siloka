@@ -17,6 +17,13 @@
       "Name": "https://gamecube-cork-prints-prev.trycloudflare.com",
       "prt": "",
       "type": "SERVER CF"
+    },
+    {
+      "id":4,
+      "Name": "https://common-boats-live.loca.lt",
+      "prt": "",
+      "type": "SERVER LT"
     }
+    
   ]
 }
