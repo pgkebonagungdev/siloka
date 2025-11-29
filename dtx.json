@@ -20,9 +20,9 @@
     },
     {
       "id":4,
-      "Name": "https://43b10e2ce3be.ngrok-free.app",
+      "Name": "https://gamecube-cork-prints-prev.trycloudflare.com/",
       "prt": "",
-      "type": "SERVER NGROK"
+      "type": "SERVER CF"
     }
   ]
 }
