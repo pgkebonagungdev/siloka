@@ -11,18 +11,6 @@
       "Name": "http://192.168.20.70",
       "prt": "10001",
       "type": "SERVER LOKAL"
-    },
-    {
-      "id":3,
-      "Name": "https://gamecube-cork-prints-prev.trycloudflare.com",
-      "prt": "",
-      "type": "SERVER CF"
-    },
-    {
-      "id":4,
-      "Name": "https://go0fqt.instatunnel.my",
-      "prt": "",
-      "type": "SERVER INSTATUN"
     }
   ]
 }
