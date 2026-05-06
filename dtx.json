@@ -20,9 +20,15 @@
     },
     {
       "id":4,
-      "name":"https://f10c-110-232-91-246.ngrok-free.app",
+      "name":"https://f10c-110-232-91-246.ngrok-free.app/",
       "prt":"",
-      "type":"TUNNEL"
+      "type":"TUNNEL-N"
+    },
+    {
+      "id":5,
+      "name":"https://significant-sponsor-labour-appointed.trycloudflare.com/",
+      "prt":"",
+      "type":"TUNNEL-CF"
     }
   ]
 }
