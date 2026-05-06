@@ -7,16 +7,22 @@
       "type": "SERVER MCM"
     },
     {
-      "id":1,
+      "id":2,
       "Name": "http://203.135.183.67",
       "prt": "2999",
       "type": "MCM NEW"
     },
     {
-      "id":2,
+      "id":3,
       "Name": "http://192.168.20.70",
       "prt": "2999",
       "type": "SERVER LOKAL"
+    },
+    {
+      "id":4,
+      "name":"https://f10c-110-232-91-246.ngrok-free.app",
+      "prt":"-",
+      "type":"TUNNEL"
     }
   ]
 }
