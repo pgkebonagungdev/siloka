@@ -21,7 +21,7 @@
     {
       "id":4,
       "name":"https://f10c-110-232-91-246.ngrok-free.app",
-      "prt":"-",
+      "prt":"",
       "type":"TUNNEL"
     }
   ]
