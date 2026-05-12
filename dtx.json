@@ -10,7 +10,7 @@
       "id":2,
       "Name": "http://192.168.20.70",
       "prt": "2999",
-      "type": "SERVER LOKAL"
+      "type": "LOKAL"
     },
     {
       "id":3,
