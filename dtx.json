@@ -2,30 +2,24 @@
   "data": [
     {
       "id":1,
-      "Name": "http://203.135.183.67",
-      "prt": "10001",
-      "type": "SERVER MCM"
+      "Name": "http://123.255.202.131",
+      "prt": "2999",
+      "type": "DU"
     },
     {
       "id":2,
-      "Name": "http://203.135.183.67",
-      "prt": "2999",
-      "type": "MCM NEW"
-    },
-    {
-      "id":3,
       "Name": "http://192.168.20.70",
       "prt": "2999",
       "type": "SERVER LOKAL"
     },
     {
-      "id":4,
+      "id":3,
       "name":"https://f10c-110-232-91-246.ngrok-free.app/",
       "prt":"",
       "type":"TUNNEL-N"
     },
     {
-      "id":5,
+      "id":4,
       "name":"https://significant-sponsor-labour-appointed.trycloudflare.com/",
       "prt":"",
       "type":"TUNNEL-CF"
